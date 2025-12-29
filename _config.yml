@@ -14,8 +14,8 @@ collections:
 
 # Themes
 remote_theme: pages-themes/merlot@v0.2.0
-title: [niko's github.io]
-description: [Welcome to my github.io!]
+title: "niko's github.io"
+description: "Welcome to my github.io!"
 
 # Handling Reading
 safe                : false
